@@ -3,6 +3,6 @@
 
 <h3>Setting up</h3>
 - Clone the repo
-- Edit the `.zshrc` or `.bashrc` file
+- Edit the .zshrc or .bashrc file
 - Add the following alias to the file:
-  ```alias vinto="/path/to/the/file/Vinto/vinto.sh"```
+  alias vinto="/path/to/the/file/Vinto/vinto.sh"
